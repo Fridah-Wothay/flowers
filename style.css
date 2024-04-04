@@ -1,0 +1,321 @@
+#nav {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    font-size: large;
+}
+
+#garder {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    font-size: x-large;
+
+}
+
+#cactus {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 2%;
+    font-size: large;
+}
+
+#plants {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 5%;
+}
+
+#work {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    gap: 5%;
+    font-size: x-large;
+}
+
+#button1 {
+    color: aliceblue;
+    background-color: darkolivegreen;
+    border-radius: 15%;
+    width: 25%;
+    height: 5%;
+}
+
+#springs {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#now {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    gap: 5%;
+    font-size: x-large;
+}
+
+#button2 {
+    color: aliceblue;
+    background-color: darkgreen;
+    border-radius: 10%;
+    width: 25%;
+    height: 5%;
+}
+
+#more {
+    text-align: center;
+    margin-top: 5%;
+    font-size: x-large;
+}
+
+#spring {
+    text-align: center;
+    margin-top: 5%;
+    font-size: x-large;
+}
+
+#vake {
+    display: flex;
+    justify-content: center;
+}
+
+#tree {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 5%;
+    font-size: x-large;
+}
+
+#png {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    font-size: x-large;
+}
+
+#from {
+    text-align: center;
+}
+
+#love {
+    text-align: center;
+}
+
+#ges {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+
+#range {
+    text-align: center;
+    margin-top: 5%;
+    font-size: x-large;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    font-size: x-large;
+}
+
+#button3 {
+    color: aliceblue;
+    background-color: darkgreen;
+    border-radius: 15%;
+    width: 25%;
+    height: 15%;
+}
+
+#button7 {
+    color: aliceblue;
+    background-color: darkgreen;
+    border-radius: 15%;
+
+}
+
+#button8 {
+    color: aliceblue;
+    background-color: darkgreen;
+    border-radius: 15%;
+
+
+}
+
+#cake {
+    display: flex;
+    justify-content: center;
+}
+
+#pake {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+@media screen and (max-width:650px) {
+    #nav {
+        flex-wrap: wrap;
+        
+        font-size:small;
+    }
+
+    #garder {
+        flex-wrap: wrap;
+        margin-top: 5%;
+        font-size: small;
+
+    }
+
+    #cactus {
+        flex-wrap: wrap;
+        gap: 5%;
+        margin-top: 2%;
+        font-size: small;
+    }
+
+    #plants {
+        flex-wrap: wrap;
+        gap: 5%;
+        margin-top: 5%;
+    }
+
+    #work {
+        flex-wrap: wrap;
+        margin-top: 5%;
+        gap: 5%;
+        font-size:large;
+    }
+
+    #button1 {
+        color: aliceblue;
+        background-color: darkolivegreen;
+        border-radius: 15%;
+        width: 25%;
+        height: 5%;
+    }
+
+    #springs {
+        text-align: center;
+        margin-top: 5%;
+    }
+
+    #now {
+        flex-wrap: wrap;
+        margin-top: 5%;
+        gap: 5%;
+        font-size:large;
+    }
+
+    #button2 {
+        color: aliceblue;
+        background-color: darkgreen;
+        border-radius: 10%;
+        width: 25%;
+        height: 5%;
+    }
+
+    #more {
+        text-align: center;
+        margin-top: 5%;
+        font-size: large;
+    }
+
+    #spring {
+        text-align: center;
+        margin-top: 5%;
+        font-size: large;
+    }
+
+    #vake {
+        flex-wrap: wrap;
+    }
+
+    #tree {
+        flex-wrap: wrap;
+        gap: 5%;
+        margin-top: 5%;
+        font-size: large;
+    }
+
+    #png {
+        flex-wrap: wrap;
+        gap: 5%;
+        font-size: large;
+    }
+
+    #from {
+        text-align: center;
+    }
+
+    #love {
+        text-align: center;
+    }
+
+    #ges {
+        flex-wrap: wrap;
+    
+    }
+
+    #range {
+        text-align: center;
+        margin-top: 5%;
+        font-size: large;
+    }
+
+    #menu {
+        flex-wrap: wrap;
+        gap: 10%;
+        font-size: large;
+    }
+
+    #button3 {
+        color: aliceblue;
+        background-color: darkgreen;
+        border-radius: 15%;
+        width: 25%;
+        height: 15%;
+    }
+
+    #button7 {
+        color: aliceblue;
+        background-color: darkgreen;
+        border-radius: 15%;
+
+    }
+
+    #button8 {
+        color: aliceblue;
+        background-color: darkgreen;
+        border-radius: 10%;
+
+
+    }
+
+    #cake {
+        flex-wrap: wrap;
+    }
+
+    #pake {
+        flex-wrap: wrap;
+    }
+    .img5{
+        width: 45%;
+    }
+    .img6{
+        width: 45%;
+    }
+    .img10{
+        width: 45%;
+    }
+    .img21{
+        width: 45%;
+    }
+}
